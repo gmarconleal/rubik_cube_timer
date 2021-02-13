@@ -1,4 +1,4 @@
-# rubik_cube_timer
+PROJETO EM CONSTRUÇÃO
 
 Esse é um cronometro do cubo de rubik (Cubo mágico), o projeto não está pronto.
 
